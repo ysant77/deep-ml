@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 0 problems · 0 labs · 3 math
+**4** solved · 0 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-21 | [solution](math/0024-information-theory-entropy) |
+| [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-21 | [solution](math/0038-log-likelihood-gradients) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-21 | [solution](math/0025-kl-divergence) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-21 | [solution](math/0026-maximum-likelihood-and-map) |
 
